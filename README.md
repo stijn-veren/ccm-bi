@@ -1,0 +1,2 @@
+# ccm-bi
+Educational Course: Creative Coding: Making Visuals with JavaScript by Bruno Imbrizi Bruno Imbrizi Bruno Imbrizi bruno.imbrizi TEACHERPRO Creative Coder. London, United Kingdom. Joined March 2021 Adidas Generative Motion System. A Br, ing, Identit, Web Development, and Javascript project by Bruno Imbrizi - 01.07.2020 SPINNUP. A Music, Audio, Br, ing, Identit, Web Development, and Javascript project by Bruno Imbrizi - 03.09.2019 Digital Design Days 2018. A Web Development, 3D Animation, and Javascript project by Bruno Imbrizi
