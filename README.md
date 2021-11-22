@@ -10,6 +10,10 @@
 
 **Source:** https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript
 
+## Notes:
+
+HTML Canvas Reference: https://www.w3schools.com/tags/ref_canvas.asp
+
 ## Projects:
 
 **Fundamentals:**
