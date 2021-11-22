@@ -13,23 +13,27 @@
 ## Projects:
 
 **Sketch Transform:**
+
 - Transform
 - Angles
 - Utility Functions
 - Arcs
 
 **Sketch Agents:**
+
 - Objects and Classes
 - Animation
 - Lines
 - Video Output
 
 **Sketch Noise:**
+
 - Grid
 - Noise
 - GUI
 
 **Sketch Type:**
+
 - Text
 - Async
 - Bitmap
