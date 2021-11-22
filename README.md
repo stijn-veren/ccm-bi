@@ -12,6 +12,12 @@
 
 ## Projects:
 
+**Fundamentals:**
+
+- Variables and Functions
+- Arrays and Loops
+- An Environment for Sketching
+
 **Sketch Transform:**
 
 - Transform
