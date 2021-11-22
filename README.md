@@ -16,7 +16,9 @@ HTML Canvas Reference: https://www.w3schools.com/tags/ref_canvas.asp
 
 canvas-sketch: https://github.com/mattdesl/canvas-sketch
 
-```npm install canvas-sketch-cli -g```
+`npm install canvas-sketch-cli -g`
+
+We can save anything we draw by pressing Command + S (Ctrl + S)
 
 ## Projects:
 
