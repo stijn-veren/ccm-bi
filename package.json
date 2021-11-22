@@ -1,0 +1,23 @@
+{
+  "name": "ccm-bi",
+  "version": "1.0.0",
+  "description": "> ### This is not an official repository for the tutorial code. > > This repository was created by me for educational purposes during the study of the course and may contain differences from the original code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stijn-veren/ccm-bi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stijn-veren/ccm-bi/issues"
+  },
+  "homepage": "https://github.com/stijn-veren/ccm-bi#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4"
+  }
+}
