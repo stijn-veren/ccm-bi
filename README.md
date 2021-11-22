@@ -1,2 +1,46 @@
-# ccm-bi
-Educational Course: Creative Coding: Making Visuals with JavaScript by Bruno Imbrizi Bruno Imbrizi Bruno Imbrizi bruno.imbrizi TEACHERPRO Creative Coder. London, United Kingdom. Joined March 2021 Adidas Generative Motion System. A Br, ing, Identit, Web Development, and Javascript project by Bruno Imbrizi - 01.07.2020 SPINNUP. A Music, Audio, Br, ing, Identit, Web Development, and Javascript project by Bruno Imbrizi - 03.09.2019 Digital Design Days 2018. A Web Development, 3D Animation, and Javascript project by Bruno Imbrizi
+# CCM-BI
+
+> ### This is not an official repository for the tutorial code.
+>
+> This repository was created by me for educational purposes during the study of the course and may contain differences from the original code.
+
+**Name:** Creative Coding: Making Visuals with JavaScript
+
+**Author:** Bruno Imbrizi, Creative Coder
+
+**Source:** https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript
+
+## Projects:
+
+**Sketch Transform:**
+- Transform
+- Angles
+- Utility Functions
+- Arcs
+
+**Sketch Agents:**
+- Objects and Classes
+- Animation
+- Lines
+- Video Output
+
+**Sketch Noise:**
+- Grid
+- Noise
+- GUI
+
+**Sketch Type:**
+- Text
+- Async
+- Bitmap
+- Glyphs
+
+> **Projects List:** https://github.com/stijn-veren/projects-list
+
+## Resources:
+
+### ...
+
+Name:
+
+- Link
