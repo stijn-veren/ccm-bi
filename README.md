@@ -22,6 +22,11 @@ We can save anything we draw by pressing Command + S (Ctrl + S)
 
 canvas-sketch-util: https://github.com/mattdesl/canvas-sketch-util
 
+Exporting: https://github.com/mattdesl/canvas-sketch/blob/master/docs/exporting-artwork.md
+
+`npm install @ffmpeg-installer/ffmpeg --global`
+`canvas-sketch sketch-03.js --output=output/03 --stream`
+
 ## Projects:
 
 **Fundamentals:**
