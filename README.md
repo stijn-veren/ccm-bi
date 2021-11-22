@@ -20,6 +20,8 @@ canvas-sketch: https://github.com/mattdesl/canvas-sketch
 
 We can save anything we draw by pressing Command + S (Ctrl + S)
 
+canvas-sketch-util: https://github.com/mattdesl/canvas-sketch-util
+
 ## Projects:
 
 **Fundamentals:**
