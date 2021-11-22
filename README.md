@@ -12,20 +12,37 @@
 
 ## Notes:
 
-HTML Canvas Reference: https://www.w3schools.com/tags/ref_canvas.asp
+HTML Canvas Reference:
 
-canvas-sketch: https://github.com/mattdesl/canvas-sketch
+- https://www.w3schools.com/tags/ref_canvas.asp
 
-`npm install canvas-sketch-cli -g`
+canvas-sketch:
 
-We can save anything we draw by pressing Command + S (Ctrl + S)
+- https://github.com/mattdesl/canvas-sketch
 
-canvas-sketch-util: https://github.com/mattdesl/canvas-sketch-util
+- `npm install canvas-sketch-cli -g`
 
-Exporting: https://github.com/mattdesl/canvas-sketch/blob/master/docs/exporting-artwork.md
+- We can save anything we draw by pressing Command + S (Ctrl + S)
 
-`npm install @ffmpeg-installer/ffmpeg --global`
-`canvas-sketch sketch-03.js --output=output/03 --stream`
+canvas-sketch-util:
+
+- https://github.com/mattdesl/canvas-sketch-util
+
+Exporting:
+
+- https://github.com/mattdesl/canvas-sketch/blob/master/docs/exporting-artwork.md
+
+- `npm install @ffmpeg-installer/ffmpeg --global`
+- `canvas-sketch sketch-03.js --output=output/03 --stream`
+
+Perlin noise:
+
+- https://en.wikipedia.org/wiki/Perlin_noise
+
+Tweakpane:
+
+- https://cocopon.github.io/tweakpane/
+- https://www.npmjs.com/package/tweakpane
 
 ## Projects:
 
