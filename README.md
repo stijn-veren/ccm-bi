@@ -16,6 +16,10 @@ HTML Canvas Reference:
 
 - https://www.w3schools.com/tags/ref_canvas.asp
 
+## Resources:
+
+### Sketches
+
 canvas-sketch:
 
 - https://github.com/mattdesl/canvas-sketch
